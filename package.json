@@ -1,6 +1,6 @@
 {
-  "name": "app",
-  "displayName": "Linked App Template",
+  "name": "blank-u97yyx-app",
+  "displayName": "Blank Project u97yyx",
   "description": "Linked app — base repository for new Linked apps.",
   "version": "0.1.0",
   "private": true,
